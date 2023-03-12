@@ -1,0 +1,6 @@
+# Vagrant -or- how to code in your local computer
+
+## Learning objectives
+* What is a virtual machine
+* What is a vagrant
+* Who wrote vagrant
